@@ -6,6 +6,7 @@
     'category': 'web',
     'author': 'grey27',
     "license": "LGPL-3",
+    "images": ["static/description/banner.png"],
     'depends': ['mail'],
     'data': ['views/assets.xml'],
     'qweb': ["static/src/xml/download_all_attachment.xml"],
