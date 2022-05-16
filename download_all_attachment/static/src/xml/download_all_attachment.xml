@@ -10,6 +10,9 @@
                     <i class="fa fa-download"/>
                 </div>
             </t>
+            <t t-else="">
+                Attachments
+            </t>
         </xpath>
     </t>
 
